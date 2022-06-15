@@ -1,2 +1,2 @@
-test file from Pycharm
-files
+List of my tesnets in Cosmos Ecosystem
+
